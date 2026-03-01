@@ -42,7 +42,7 @@ If you skip more than one day, your streak resets — but you can always start a
 
 ## 📦 Live Demo
 
-👉 [View the App Here](YOUR_GITHUB_PAGES_LINK)
+👉 [Click here to try the app](https://aaron-pixel98.github.io/Hobbies.App/)
 
 ---
 
