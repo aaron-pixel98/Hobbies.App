@@ -49,7 +49,7 @@ If you skip more than one day, your streak resets — but you can always start a
 ## 📸 Screenshots
 
 
-
+![Hobbies.App Screenshot](hobbies.png)
 ---
 
 ## 🎯 Purpose
